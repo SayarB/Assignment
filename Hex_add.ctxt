@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Hex_add
+comment1.params=
+comment1.target=Hex_add()
+comment2.params=
+comment2.target=void\ accept()
+comment3.params=n
+comment3.target=boolean\ check(java.lang.String)
+comment4.params=
+comment4.target=void\ add()
+comment5.params=n
+comment5.target=java.lang.String\ hex_dec(java.lang.String)
+comment6.params=x
+comment6.target=java.lang.String\ dec_hex(int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

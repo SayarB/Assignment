@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CirQueue
+comment1.params=max
+comment1.target=CirQueue(int)
+comment2.params=n
+comment2.target=void\ push(int)
+comment3.params=
+comment3.target=void\ pop()
+comment4.params=
+comment4.target=void\ show()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

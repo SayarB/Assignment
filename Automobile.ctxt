@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Automobile
+comment1.params=r\ l
+comment1.target=Automobile(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ display()
+numComments=3

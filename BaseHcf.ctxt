@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BaseHcf
+comment1.params=a\ b
+comment1.target=BaseHcf(int,\ int)
+comment2.params=
+comment2.target=void\ show()
+comment3.params=m\ n
+comment3.target=int\ hcf(int,\ int)
+comment4.params=
+comment4.target=int\ getP()
+comment5.params=
+comment5.target=int\ getQ()
+numComments=6

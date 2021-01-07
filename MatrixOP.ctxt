@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MatrixOP
+comment1.params=nn
+comment1.target=MatrixOP(int)
+comment2.params=
+comment2.target=void\ input()
+comment3.params=a
+comment3.target=MatrixOP\ prod(MatrixOP)
+comment4.params=i
+comment4.target=int\ highPrimeD(int)
+comment5.params=i
+comment5.target=int\ highestCompositeD(int)
+comment6.params=i
+comment6.target=int\ sumOfDigit(int)
+comment7.params=i
+comment7.target=int\ prodOfDigit(int)
+comment8.params=
+comment8.target=void\ display()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

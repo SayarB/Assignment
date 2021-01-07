@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LogRecords
+comment1.params=id\ indate\ intime\ outdate\ outtime
+comment1.target=LogRecords(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ print()
+numComments=3

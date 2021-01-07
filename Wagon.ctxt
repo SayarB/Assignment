@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Wagon
+comment1.params=r\ l\ w
+comment1.target=Wagon(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=double\ CalEx()
+comment3.params=
+comment3.target=void\ display()
+numComments=4

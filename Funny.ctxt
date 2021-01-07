@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Funny
+comment1.params=n
+comment1.target=boolean\ isFunny(java.lang.String)
+comment2.params=n
+comment2.target=java.lang.String\ reverse(java.lang.String)
+comment3.params=n
+comment3.target=boolean\ isPalin(java.lang.String)
+comment4.params=n
+comment4.target=int[]\ diff(java.lang.String)
+comment5.params=arr1\ arr2
+comment5.target=boolean\ isEqual(int[],\ int[])
+comment6.params=
+comment6.target=void\ accept()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

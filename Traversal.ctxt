@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Traversal
+comment1.params=
+comment1.target=Traversal()
+comment2.params=
+comment2.target=void\ accept()
+comment3.params=n\ a
+comment3.target=boolean\ found(int,\ int[])
+comment4.params=
+comment4.target=void\ fillArray()
+comment5.params=i\ j\ k\ l
+comment5.target=int[]\ Apath(int,\ int,\ int,\ int)
+comment6.params=i\ j\ k\ l
+comment6.target=int[]\ Bpath(int,\ int,\ int,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=D2Point
+comment1.params=
+comment1.target=D2Point()
+comment2.params=nx\ ny
+comment2.target=D2Point(double,\ double)
+comment3.params=b
+comment3.target=double\ dist2D(D2Point)
+numComments=4
